@@ -1,7 +1,6 @@
 # HTML / CSS Landing Page
 
 ### Learning points 
-
 - HTML
 - CSS
 - Hamburger menu
@@ -9,5 +8,5 @@
 - Transitions
 - Keyframes
 
-#### Preview link:
+### Preview link:
 https://fernandorff.github.io/front-end-1-html-css-landing-page/
