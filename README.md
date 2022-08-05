@@ -1,5 +1,13 @@
-# Desafio de projeto HTML/CSS
-Landing page com hamburger menu e morphing menu usando CSS transitions e keyframes.
+# HTML / CSS Landing Page
 
-Preview
+### Learning points 
+
+- HTML
+- CSS
+- Hamburger menu
+- Morphing Menu
+- Transitions
+- Keyframes
+
+#### Preview link:
 https://fernandorff.github.io/front-end-1-html-css-landing-page/
