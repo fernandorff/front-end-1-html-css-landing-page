@@ -1,4 +1,4 @@
-## HTML / CSS Landing Page
+## Front End Studies 1 - Landing Page
 
 #### Learning points 
 - HTML
